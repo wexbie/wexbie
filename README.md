@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://sanatustu.com/img/hizmetler/web-yazilim.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wexbie&icon=6&color=3)](https://visitcount.itsvg.in)
