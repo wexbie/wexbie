@@ -50,13 +50,9 @@ What I Bring to the Table:
 
 <h3 align="left">Stars</h3>
 
-<div style="display: flex; justify-content: center;">
-    <div>
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wexbie&show_icons=true&locale=en&theme=algolia" alt="wexbie" />
-    </div>
-    <div>
-        <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wexbie&theme=algolia" alt="wexbie" />
-    </div>
+<div style="text-align: center;">
+    <img style="display: inline-block;" height="180em" src="https://github-readme-stats.vercel.app/api?username=wexbie&show_icons=true&locale=en&theme=algolia" alt="wexbie" />
+    <img style="display: inline-block;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wexbie&theme=algolia" alt="wexbie" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
