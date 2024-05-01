@@ -50,7 +50,7 @@ What I Bring to the Table:
 
 <h3 align="left">Stars</h3>
 
-<div style="text-align: center;">
+<div style="display:flex; text-align: center;">
     <img align="center" style="display: inline-block;" height="180em" src="https://github-readme-stats.vercel.app/api?username=wexbie&show_icons=true&locale=en&theme=algolia" alt="wexbie" />
     <img align="center" style="display: inline-block;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wexbie&theme=algolia" alt="wexbie" />
 </div>
