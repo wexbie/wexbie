@@ -16,6 +16,7 @@ What I Bring to the Table:
 💼 Professionalism: Committed to delivering high-quality code and meeting project deadlines, I communicate effectively and collaborate seamlessly with cross-functional teams.
 
 🚀 Continuous Learning: I stay updated with the latest trends and best practices in front-end development, constantly expanding my skill set to stay ahead of the curve.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wexbie&theme=algolia" alt="wexbie" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
