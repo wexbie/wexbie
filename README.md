@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi everyone I'm Eyup</h1>
-<p align="left"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 I'm a seasoned front-end developer with a passion for crafting seamless user experiences and innovative solutions. With expertise in ReactJS, NextJS, React Native, TailwindCSS, SCSS, and Typescript, I specialize in building responsive, fast, and user-friendly interfaces that leave a lasting impression.
 
 What I Bring to the Table:
