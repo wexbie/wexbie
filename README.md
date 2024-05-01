@@ -49,11 +49,6 @@ What I Bring to the Table:
 <p><a href="https://www.buymeacoffee.com/wexbie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wexbie" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<style>
-div[dir="auto"] {
-    display: flex;
-}
-</style>
 <div style="text-align: center;">
     <img align="center" style="display: inline-block;" height="180em" src="https://github-readme-stats.vercel.app/api?username=wexbie&show_icons=true&locale=en&theme=algolia" alt="wexbie" />
     <img align="center" style="display: inline-block;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wexbie&theme=algolia" alt="wexbie" />
