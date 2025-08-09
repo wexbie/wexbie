@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wexbie&theme=dark&show_icons=true&locale=en" alt="wexbie"  ></p>
 
-Hello, I am a 21 year old developer.\
+Hello, I am a 22 year old developer.\
 
 I'm a seasoned front-end developer with a passion for crafting seamless user experiences and innovative solutions. With expertise in [ReactJS](https://react.dev/), [NextJS](https://nextjs.org/), [React Native](https://reactnative.dev/), [TailwindCSS](https://tailwindcss.com/) and [PHP](https://www.php.net/), I specialize in building responsive, fast, and user-friendly interfaces that leave a lasting impression.\
 If you want to support my projects, you can star the projects.\
