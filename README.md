@@ -6,7 +6,7 @@ I'm **Wexbie**, a frontend developer.
 
 • **[wexbie.com](https://wexbie.com/)**: My personal portfolio website showcasing my projects, skills, and professional experience.
 
-• **[BuzzMatch](https://wexbie.com/proje-detay?id=buzzmatch/)**: A modern social platform built with React Native and Firebase, designed to help users make new friends.  
+• **[BuzzMatch](https://wexbie.com/proje-detay?id=buzzmatch)**: A modern social platform built with React Native and Firebase, designed to help users make new friends.  
 
 • **[ZINK](https://zink-web.vercel.app/)**: Built with React, Next.js, and TailwindCSS; a platform that makes building modern web applications incredibly easy.  
 
