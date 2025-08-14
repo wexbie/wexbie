@@ -1,87 +1,101 @@
-<h1 align="center">Hi 👋, I'm wexbie</h1>
+## Hi There 👋
 
-### I am a Front-End Developer
+I'm **Wexbie**, a frontend developer.
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wexbie&theme=dark&show_icons=true&locale=en&layout=compact" alt="wexbie" /></p>
+## My Projects
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wexbie&theme=dark&show_icons=true&locale=en" alt="wexbie"  ></p>
+• **[wexbie.com](https://wexbie.com)**: My personal portfolio website showcasing my projects, skills, and professional experience.
 
-Hello, I am a 21 year old developer.\
+• **[BuzzMatch](https://github.com/wexbie/buzzmatch)**: A modern social platform built with React Native and Firebase, designed to help users make new friends.  
 
-I'm a seasoned front-end developer with a passion for crafting seamless user experiences and innovative solutions. With expertise in [ReactJS](https://react.dev/), [NextJS](https://nextjs.org/), [React Native](https://reactnative.dev/), [TailwindCSS](https://tailwindcss.com/) and [PHP](https://www.php.net/), I specialize in building responsive, fast, and user-friendly interfaces that leave a lasting impression.\
-If you want to support my projects, you can star the projects.\
-![](https://komarev.com/ghpvc/?username=wexbie&color=gray)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wexbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="wexbie" height="30" width="40" /></a><a href="https://linkedin.com/in/wexbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="wexbie" height="30" width="40" /></a><a href="https://fb.com/wexbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="wexbie" height="30" width="40" /></a><a href="https://www.hackerrank.com/wexbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="wexbie" height="30" width="40" /></a><a href="https://discord.gg/users/765991196098166827" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="users/765991196098166827" height="30" width="40" /></a><a href="https://codepen.io/wexbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="wexbie" height="30" width="40" /></a><a href="https://stackoverflow.com/users/23259223" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="23259223" height="30" width="40" /></a><a href="https://instagram.com/eyupaslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="eyupaslnn" height="30" width="40" /></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.javascript.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-</a>
-<a href="https://gulpjs.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/gulp-plain.svg" alt="Gulp" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-</a>
-<a href="https://vuejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
-</a>
-<a href="https://webpack.js.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-</a>
-<a href="https://laravel.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-</a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
-</a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</a>
-<a href="https://www.chartjs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/logo-title.svg" alt="Chart Js" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
+• **[ZINK](https://github.com/wexbie/zink)**: Built with React, Next.js, and TailwindCSS; a platform that makes building modern web applications incredibly easy.  
+
+• **[PMYO OBS](https://github.com/wexbie/pmyo-obs)**: A student information system and admin panel developed with React.js.  
+
+• **[API Tester](https://github.com/wexbie/api-tester)**: A console application built with C# for easily testing REST APIs.  
+
+• **[Gemini AI Clone](https://github.com/wexbie/gemini-clone)**: A web interface clone of Google Gemini AI, developed using React and FastAPI.  
+
+• **[SonDeprem](https://github.com/wexbie/sondeprem)**: A web application that allows users to track the latest earthquakes in Turkey in real time.  
+
+• **[TechnoBlog](https://github.com/wexbie/technoblog)**: A blog platform built with PHP and MySQL for sharing technology news and articles.  
+
+• **[Millionaire Game](https://github.com/wexbie/milyoner)**: An interactive quiz game inspired by "Who Wants to Be a Millionaire?", developed with JavaScript.
+
+## Technology Stack
+
+### Frontend
 <div align="center">
-<a href="https://github.com/wexbie">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wexbie&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wexbie&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wexbie&theme=algolia" height="180em" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Ant_Design-1890FF?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+#
+
+### Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</div>
+
+#
+
+### Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+</div>
+
+#
+
+### API & Communication
+<div align="center">
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</div>
+
+#
+
+### Tools & Techniques
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JetBrains_IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDE" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+#
+
+### Deployment & Hosting
+<div align="center">
+  <img src="https://img.shields.io/badge/GoDaddy-1FDBAD?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy" />
+  <img src="https://img.shields.io/badge/Hostinger-0066FF?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PythonAnywhere" />
+</div>
+
+#
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wexbie&style=flat-square&color=6B7280&label=Profile+views" alt="Profile Views" />
+</div>
+
+#
