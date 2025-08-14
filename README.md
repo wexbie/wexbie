@@ -4,23 +4,23 @@ I'm **Wexbie**, a frontend developer.
 
 ## My Projects
 
-• **[wexbie.com](https://wexbie.com)**: My personal portfolio website showcasing my projects, skills, and professional experience.
+• **[wexbie.com](https://wexbie.com/)**: My personal portfolio website showcasing my projects, skills, and professional experience.
 
-• **[BuzzMatch](https://github.com/wexbie/buzzmatch)**: A modern social platform built with React Native and Firebase, designed to help users make new friends.  
+• **[BuzzMatch](https://wexbie.com/proje-detay?id=buzzmatch/)**: A modern social platform built with React Native and Firebase, designed to help users make new friends.  
 
-• **[ZINK](https://github.com/wexbie/zink)**: Built with React, Next.js, and TailwindCSS; a platform that makes building modern web applications incredibly easy.  
+• **[ZINK](https://zink-web.vercel.app/)**: Built with React, Next.js, and TailwindCSS; a platform that makes building modern web applications incredibly easy.  
 
-• **[PMYO OBS](https://github.com/wexbie/pmyo-obs)**: A student information system and admin panel developed with React.js.  
+• **[PMYO OBS](https://pazaryerimyo.vercel.app/)**: A student information system and admin panel developed with React.js.  
 
-• **[API Tester](https://github.com/wexbie/api-tester)**: A console application built with C# for easily testing REST APIs.  
+• **[API Tester](https://github.com/wexbie/api-tester/)**: A console application built with C# for easily testing REST APIs.  
 
-• **[Gemini AI Clone](https://github.com/wexbie/gemini-clone)**: A web interface clone of Google Gemini AI, developed using React and FastAPI.  
+• **[Gemini AI Clone](https://wexbie.pythonanywhere.com/)**: A web interface clone of Google Gemini AI, developed using React and FastAPI.  
 
-• **[SonDeprem](https://github.com/wexbie/sondeprem)**: A web application that allows users to track the latest earthquakes in Turkey in real time.  
+• **[SonDeprem](https://son-deprem.vercel.app/)**: A web application that allows users to track the latest earthquakes in Turkey in real time.  
 
-• **[TechnoBlog](https://github.com/wexbie/technoblog)**: A blog platform built with PHP and MySQL for sharing technology news and articles.  
+• **[TechnoBlog](https://github.com/wexbie/technoBlog/)**: A blog platform built with PHP and MySQL for sharing technology news and articles.  
 
-• **[Millionaire Game](https://github.com/wexbie/milyoner)**: An interactive quiz game inspired by "Who Wants to Be a Millionaire?", developed with JavaScript.
+• **[Millionaire Game](https://kim-milyoner-olmak-ister-oyunu.vercel.app/)**: An interactive quiz game inspired by "Who Wants to Be a Millionaire?", developed with JavaScript.
 
 ## Technology Stack
 
